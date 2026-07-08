@@ -150,3 +150,40 @@ This project demonstrates the core analytical techniques commonly used by Produc
 | Churn Analysis | Evaluated customer churn and retention trends |
 | Revenue Analysis | Analyzed revenue performance across products and categories |
 | Dashboard Development | Built interactive Power BI dashboards for business reporting |
+
+
+---
+
+# 💼 Skills Demonstrated
+
+Through this project, I demonstrated the following technical and analytical skills:
+
+### SQL
+- Data Cleaning & Transformation
+- Joins & Common Table Expressions (CTEs)
+- Window Functions
+- Aggregate Functions
+- KPI Calculation
+- Customer Segmentation
+
+### Product Analytics
+- Funnel Analysis
+- Cohort Analysis
+- Churn Analysis
+- RFM Segmentation
+- Customer Retention Analysis
+- Revenue Analysis
+
+### Power BI
+- Data Modeling
+- DAX Measures
+- Interactive Dashboard Development
+- KPI Reporting
+- Business Visualization
+
+### Business Skills
+- Analytical Thinking
+- Business Problem Solving
+- Data-Driven Decision Making
+- Business Storytelling
+- Performance Monitoring
