@@ -1,0 +1,509 @@
+user_id,signup_date,country,city,age,gender,acquisition_channel,device_type,plan_type
+1,2023-03-06,India,Hyderabad,28,M,Direct,Tablet,Premium
+2,2023-03-07,UAE,,25,male,Paid Ads,Mobile,Free
+3,01/06/2023,India,Kolkata,35,other,Organic Search,Mobile,Free
+4,2023-05-03,India,Pune,36,F,Social Media,Mobile,Free
+5,2023-09-17,USA,,47,male,Email Campaign,Mobile,Premium
+6,2023-04-06,Australia,,30,female,Email Campaign,Desktop,Free
+7,2023-10-23,India,Pune,28,MALE,Organic Search,Desktop,Free
+8,2024-12-31,UK,,32,M,Paid Ads,Tablet,Free
+9,2023-07-09,India,Indore,39,,Paid Ads,Desktop,Free
+10,2024-01-02,Australia,,18,Female,Organic Search,Mobile,Premium
+11,2024-10-24,UAE,,28,female,Email Campaign,Tablet,Free
+12,2023-10-09,UAE,,16,other,Paid Ads,Mobile,Premium
+13,2024-04-30,Germany,,14,Other,Social Media,Desktop,Free
+14,2024-12-14,Australia,,27,other,Organic Search,Mobile,Free
+15,2024-04-01,UAE,,27,MALE,Email Campaign,Desktop,Free
+16,2023-09-25,India,Delhi,31,,Direct,Desktop,Free
+17,2023-10-09,Canada,,21,male,Direct,Desktop,Premium
+18,2023-04-14,Australia,,24,MALE,Referral,Tablet,Free
+19,2023-08-09,UK,,18,M,Email Campaign,Mobile,Free
+20,2024-09-08,India,Chennai,16,female,Paid Ads,Tablet,Premium
+21,2024-12-31,Canada,,19,MALE,Email Campaign,Mobile,Free
+22,2023-04-08,Australia,,40,M,Email Campaign,Desktop,Premium
+23,2023-04-27,India,Hyderabad,36,F,Email Campaign,Desktop,Free
+24,2023-02-18,UK,,25,male,Paid Ads,Tablet,Free
+25,14/02/2024,India, pune ,14,male,Organic Search,Tablet,Free
+26,2023-06-30,India,Kolkata,32,other,Social Media,Desktop,Free
+27,2023-04-09,UAE,,23,F,Social Media,Tablet,Free
+28,2023-01-02,India,Mumbai,30,F,Organic Search,Mobile,Free
+29,2023-11-25,India,Ahmedabad,24,other,Organic Search,Desktop,Premium
+30,2024-12-23,India,Mumbai,27,,Organic Search,Mobile,Free
+31,2023-01-10,India,Ahmedabad,16,M,Social Media,Desktop,Premium
+32,2024-01-05,USA,,45,Other,Direct,Tablet,Free
+33,2023-05-12,India,Hyderabad,30,male,Email Campaign,Mobile,Premium
+34,06/04/2023,Germany,,30,other,Email Campaign,Mobile,Free
+35,2023-01-14,India,Delhi,31,Female,Email Campaign,Mobile,Free
+36,12/05/2023,India,Ahmedabad,13,,Referral,Mobile,Free
+37,2024-08-06,USA,,38,Other,Direct,Desktop,Free
+38,2023-03-13,India,Mumbai,27,MALE,Paid Ads,Tablet,Free
+39,2023-06-25,India,Pune,22,M,Email Campaign,Tablet,Free
+40,2023-02-17,Australia,,32,male,Email Campaign,Desktop,Premium
+41,2024-12-31,India,Hyderabad,18,MALE,Paid Ads,Desktop,Free
+42,2024-03-28,UK,,13,Female,Referral,Tablet,Free
+43,2023-04-06,India,Delhi,43,female,Referral,Mobile,Free
+44,2023-01-20,Canada,,23,,Email Campaign,Mobile,Free
+45,2024-12-31,India, kolkata ,16,F,Paid Ads,Desktop,Free
+46,2023-02-02,India,Chennai,26,Female,Referral,Tablet,Premium
+47,2023-03-09,Germany,,30,M,Paid Ads,Mobile,Premium
+48,2023-08-30,UAE,,33,male,Referral,Desktop,Premium
+49,2023-12-22,India,Hyderabad,42,MALE,Organic Search,Desktop,Free
+50,2023-01-17,Canada,,25,F,Paid Ads,Mobile,Free
+51,2023-10-05,UK,,23,female,Referral,Desktop,Free
+52,2023-02-02,Australia,,26,F,Organic Search,Desktop,Free
+53,2023-05-04,USA,,24,male,Social Media,Desktop,Premium
+54,2023-07-27,Germany,,37,,Email Campaign,Mobile,Free
+55,2023-12-15,India,Kolkata,26,,Direct,Tablet,Free
+56,2023-01-06,India,Chennai,33,MALE,Referral,Tablet,Free
+57,2024-12-31,UAE,,54,female,Paid Ads,Desktop,Free
+58,2024-01-18,India,Indore,29,Other,Organic Search,Desktop,Free
+59,2023-11-14,Germany,,31,F,Social Media,Tablet,Free
+60,2024-06-19,India,Delhi,36,F,Paid Ads,Tablet,Free
+61,2024-01-11,India, mumbai ,20,other,Organic Search,Desktop,Free
+62,2024-07-07,India,Ahmedabad,30,Female,Direct,Mobile,Premium
+63,2024-07-24,India,Ahmedabad,38,,Email Campaign,Mobile,Premium
+64,2023-12-16,India,Jaipur,32,,Social Media,Tablet,Premium
+65,2023-03-18,UAE,,21,,Paid Ads,Tablet,Premium
+66,2023-06-07,India,Hyderabad,23,,Paid Ads,Desktop,Free
+67,2023-01-14,India,Hyderabad,16,,Paid Ads,Mobile,Free
+68,2023-12-20,India,Delhi,37,F,,Mobile,Free
+69,2023-06-11,Germany,,20,male,Email Campaign,Desktop,Free
+70,2023-04-11,USA,,39,Other,Social Media,Tablet,Premium
+71,2023-08-16,Germany,,20,Female,Referral,Desktop,Free
+72,2024-12-31,UAE,,39,M,Paid Ads,Tablet,Free
+73,2023-01-14,Germany,,32,male,Social Media,Mobile,Premium
+74,2023-09-21,USA,,28,Other,Social Media,Desktop,Free
+75,2023-07-02,USA,,43,Other,Organic Search,Desktop,Free
+76,2024-03-12,UK,,42,Female,Direct,Mobile,Premium
+77,2023-02-15,India,Mumbai,32,Female,Direct,Mobile,Free
+78,2024-10-31,USA,,16,F,Email Campaign,Tablet,Free
+79,2023-10-01,India,Hyderabad,35,male,Email Campaign,Tablet,Premium
+80,2024-03-22,India,Delhi,20,Female,Referral,Tablet,Free
+81,2023-04-01,Germany,,34,male,Social Media,Tablet,Free
+82,2023-08-16,UK,,10,male,Social Media,Mobile,Free
+83,2023-06-13,Canada,,24,M,Direct,Tablet,Premium
+84,2023-01-19,Australia,,26,other,Direct,Tablet,Free
+85,2024-12-31,India,Hyderabad,25,Female,Email Campaign,Tablet,Free
+86,2024-12-31,Canada,,36,F,Paid Ads,Desktop,Premium
+87,2024-01-10,Germany,,18,female,Email Campaign,Mobile,Free
+88,2023-01-29,Canada,,2,,Direct,Desktop,Free
+89,2023-02-01,India,Delhi,37,Other,Referral,Tablet,Free
+90,2023-03-21,Australia,,46,F,Direct,Tablet,Free
+91,2024-12-31,USA,,26,female,Organic Search,Tablet,Free
+92,2024-12-31,Australia,,30,M,Direct,Desktop,Free
+93,2024-12-31,Australia,,31,female,Paid Ads,Desktop,Free
+94,2024-02-11,India,Kolkata,42,male,Email Campaign,Desktop,Free
+95,2024-12-31,Canada,,36,MALE,Email Campaign,Desktop,Free
+96,2024-10-31,India,Mumbai,32,other,Organic Search,Desktop,Free
+97,2024-08-27,India,Bangalore,17,female,Paid Ads,Mobile,Free
+98,2023-06-17,Germany,,25,Female,Social Media,Desktop,Premium
+99,2024-12-31,Germany,,29,Other,Email Campaign,Mobile,Free
+100,2023-03-30,India,Pune,19,MALE,Paid Ads,Tablet,Free
+101,16/10/2023,Canada,,31,other,Paid Ads,Desktop,Free
+102,2023-10-25,Canada,,27,MALE,Referral,Tablet,Free
+103,2023-05-24,India,Ahmedabad,27,Female,Referral,Mobile,Free
+104,2023-06-07,USA,,43,female,Social Media,Tablet,Free
+105,2024-02-10,USA,,22,,Social Media,Mobile,Free
+106,2023-07-09,UK,,19,female,Paid Ads,Tablet,Premium
+107,2023-04-08,India,Hyderabad,40,M,Direct,Desktop,Premium
+108,2024-03-24,Germany,,13,Other,Social Media,Mobile,Free
+109,2024-04-28,UK,,33,MALE,Referral,Desktop,Free
+110,2024-01-15,UAE,,34,,Organic Search,Desktop,Free
+111,2023-03-31,UAE,,24,,Organic Search,Tablet,Premium
+112,2023-01-29,India,Pune,9,other,Organic Search,Mobile,Free
+113,2023-09-07,USA,,39,other,Social Media,Mobile,Free
+114,2024-12-31,India,Bangalore,26,male,Organic Search,Mobile,Premium
+115,2023-09-27,Canada,,26,MALE,Paid Ads,Desktop,Premium
+116,2024-12-31,USA,,28,Other,Social Media,Mobile,Free
+117,2024-12-31,India,Indore,35,M,Referral,Desktop,Free
+118,2023-01-27,USA,,20,male,Referral,Tablet,Free
+119,2023-03-02,India,Jaipur,23,F,Email Campaign,Desktop,Free
+120,2024-12-31,India,Pune,21,Female,Social Media,Mobile,Free
+121,2024-02-01,UAE,,40,Other,Direct,Mobile,Free
+122,31/12/2024,Australia,,23,F,Social Media,Mobile,Free
+123,2024-12-31,India,Ahmedabad,27,M,Referral,Desktop,Free
+124,2023-02-07,India,Chennai,24,,Referral,Tablet,Free
+125,2023-05-16,Australia,,32,male,Paid Ads,Tablet,Free
+126,2023-06-13,India,Delhi,20,MALE,Direct,Mobile,Free
+127,2023-03-28,India,Mumbai,22,male,Referral,Desktop,Free
+128,2023-04-10,Germany,,18,M,Organic Search,Tablet,Premium
+129,2023-07-20,India,Jaipur,42,M,Direct,Desktop,Free
+130,2023-04-15,Canada,,17,female,Paid Ads,Mobile,Free
+131,2023-02-17,Germany,,42,female,Social Media,Tablet,Free
+132,2024-12-31,India,Ahmedabad,15,MALE,Email Campaign,Desktop,Free
+133,2023-01-29,USA,,30,male,Direct,Desktop,Free
+134,2023-03-01,India,Indore,37,female,Paid Ads,Tablet,Premium
+135,2023-06-25,India,Indore,28,M,Direct,Tablet,Free
+136,2024-12-31,India,Indore,41,M,Referral,Desktop,Premium
+137,2023-06-06,India,Kolkata,24,F,Referral,Mobile,Free
+138,2024-08-09,Canada,,40,female,Referral,Mobile,Free
+139,07/10/2023,India,Ahmedabad,30,,Social Media,Mobile,Free
+140,2023-09-11,UK,,25,female,Direct,Desktop,Free
+141,2024-04-04,India,Indore,30,,Email Campaign,Mobile,Free
+142,2024-03-05,Canada,,35,female,Organic Search,Mobile,Free
+143,14/04/2024,Canada,,18,MALE,Email Campaign,Mobile,Free
+144,2023-03-18,Australia,,23,Other,Direct,Mobile,Premium
+145,2023-04-07,Canada,,22,Other,Referral,Mobile,Free
+146,2024-11-29,Canada,,23,Female,Organic Search,Tablet,Free
+147,2024-04-14,UK,,28,male,Paid Ads,Mobile,Premium
+148,2023-08-03,India,Pune,25,male,Referral,Mobile,Premium
+149,2024-08-13,India,Delhi,36,,Paid Ads,Mobile,Free
+150,2024-12-31,Germany,,24,male,Paid Ads,Mobile,Free
+151,2023-01-31,India,Mumbai,32,F,Paid Ads,Tablet,Free
+152,2023-08-06,India,Bangalore,39,,Organic Search,Desktop,Free
+153,2023-07-01,Germany,,33,MALE,,Tablet,Free
+154,2024-06-26,Australia,,38,female,Organic Search,Mobile,Premium
+155,2024-12-31,UAE,,30,MALE,Social Media,Mobile,Premium
+156,2023-11-07,India,Delhi,29,,Social Media,Tablet,Free
+157,2023-12-02,Germany,,22,Other,Direct,Mobile,Premium
+158,2024-03-06,Australia,,29,Female,Paid Ads,Desktop,Free
+159,2023-09-21,UAE,,35,MALE,Referral,Tablet,Free
+160,2023-04-28,Canada,,28,MALE,Organic Search,Mobile,Free
+161,2023-09-04,UK,,36,M,Email Campaign,Tablet,Free
+162,2023-07-24,UAE,,34,F,Social Media,Tablet,Free
+163,2024-09-04,USA,,30,F,Email Campaign,Mobile,Free
+164,2023-05-22,India,Chennai,25,F,Referral,Tablet,Free
+165,2023-03-19,Australia,,14,,Direct,Tablet,Free
+166,2023-09-13,USA,,36,F,,Mobile,Free
+167,2023-07-24,India, mumbai ,14,,Social Media,Desktop,Free
+168,2024-02-01,UK,,40,MALE,Paid Ads,Mobile,Premium
+169,07/03/2023,India,Hyderabad,22,Other,Social Media,Desktop,Free
+170,2024-11-19,India,Chennai,42,female,Email Campaign,Desktop,Free
+171,2023-08-29,India,Ahmedabad,-5,male,Paid Ads,Mobile,Premium
+172,2023-03-26,India,Mumbai,31,Other,Social Media,Tablet,Free
+173,2024-07-26,UK,,18,MALE,Direct,Mobile,Free
+174,2023-01-11,India,Chennai,18,Other,Social Media,Desktop,Free
+175,22/09/2023,UK,,11,M,Email Campaign,Desktop,Premium
+176,2024-12-31,India,Ahmedabad,33,Female,Social Media,Tablet,Free
+177,2023-02-15,UK,,19,Female,,Mobile,Free
+178,2023-02-02,Australia,,19,Female,Referral,Desktop,Premium
+179,2023-08-06,India,Pune,29,female,Email Campaign,Mobile,Premium
+180,2023-02-26,India,Jaipur,44,other,Email Campaign,Tablet,Free
+181,2023-06-07,UK,,30,M,Social Media,Desktop,Free
+182,2024-12-31,Germany,,22,male,Organic Search,Desktop,Free
+183,13/09/2023,UK,,28,female,Organic Search,Tablet,Free
+184,2024-04-18,Germany,,29,,Direct,Mobile,Free
+185,2023-09-09,India,Chennai,26,,Organic Search,Desktop,Free
+186,2023-02-23,UK,,30,MALE,Paid Ads,Mobile,Free
+187,2023-02-17,Canada,,35,,Paid Ads,Desktop,Free
+188,2024-04-04,UAE,,32,F,Organic Search,Tablet,Free
+189,11/01/2023,India,Kolkata,26,female,Direct,Tablet,Premium
+190,2023-06-17,Germany,,36,M,Referral,Tablet,Free
+191,2023-02-06,Germany,,22,MALE,Social Media,Tablet,Premium
+192,2023-10-03,Australia,,33,MALE,Social Media,Tablet,Free
+193,2024-09-01,India,Pune,29,other,Paid Ads,Mobile,Free
+194,2023-03-30,India,Kolkata,21,,Referral,Tablet,Free
+195,2023-05-20,India,Bangalore,11,M,Organic Search,Desktop,Free
+196,2023-12-14,Canada,,25,female,Social Media,Mobile,Free
+197,2023-08-05,Canada,,41,Female,Email Campaign,Desktop,Free
+198,2023-09-28,UAE,,33,,Paid Ads,Mobile,Premium
+199,2023-10-21,USA,,12,male,Referral,Tablet,Premium
+200,2023-05-17,Australia,,37,MALE,Paid Ads,Desktop,Free
+201,2024-12-31,UAE,,17,MALE,Paid Ads,Desktop,Premium
+202,2023-08-17,UAE,,33,male,Referral,Mobile,Free
+203,2023-05-14,India,Mumbai,24,MALE,Direct,Desktop,Premium
+204,2023-08-11,USA,,18,other,Paid Ads,Tablet,Free
+205,2024-09-23,India,Mumbai,30,M,Direct,Tablet,Free
+206,2024-12-31,USA,,36,Female,Organic Search,Mobile,Free
+207,2023-01-02,Canada,,28,MALE,Social Media,Tablet,Free
+208,2024-03-01,Germany,,32,Female,Referral,Desktop,Free
+209,2024-07-24,Germany,,31,Other,Direct,Mobile,Free
+210,2023-08-03,Australia,,43,,Email Campaign,Tablet,Free
+211,2024-08-28,India,Ahmedabad,21,female,Referral,Mobile,Free
+212,2024-03-18,India,Indore,34,F,Referral,Tablet,Free
+213,2023-09-08,Canada,,36,other,Paid Ads,Mobile,Free
+214,2023-01-31,India,Hyderabad,35,Female,Referral,Desktop,Free
+215,2023-08-23,Australia,,27,other,Direct,Mobile,Free
+216,2023-10-27,India,Chennai,32,F,Social Media,Tablet,Free
+217,2023-06-02,UK,,45,M,Social Media,Desktop,Premium
+218,2023-09-22,India, ahmedabad ,13,M,Referral,Mobile,Free
+219,2023-03-16,USA,,24,other,Social Media,Mobile,Free
+220,2023-02-19,India,Chennai,31,Other,Organic Search,Mobile,Free
+221,2023-01-01,Australia,,28,M,Paid Ads,Tablet,Free
+222,2023-11-06,India,Delhi,20,F,Email Campaign,Mobile,Free
+223,2024-06-08,UK,,24,F,Organic Search,Tablet,Free
+224,2024-12-31,UK,,41,female,Organic Search,Mobile,Premium
+225,2024-12-31,UAE,,24,,Referral,Tablet,Free
+226,2024-12-31,USA,,19,other,Paid Ads,Mobile,Free
+227,2024-02-29,Canada,,33,MALE,Referral,Tablet,Free
+228,17/06/2024,Australia,,34,female,Paid Ads,Tablet,Free
+229,2024-08-01,India,Chennai,24,MALE,Paid Ads,Mobile,Premium
+230,30/11/2023,Australia,,23,F,Email Campaign,Mobile,Free
+231,2024-12-31,USA,,35,Other,Direct,Desktop,Free
+232,2024-01-17,Germany,,15,MALE,Referral,Tablet,Free
+233,2023-07-19,Australia,,33,F,Email Campaign,Tablet,Free
+234,2023-11-21,India,Ahmedabad,31,male,Email Campaign,Mobile,Free
+235,2023-09-15,India,Chennai,44,,Organic Search,Desktop,Free
+236,2023-05-26,USA,,16,M,Email Campaign,Tablet,Free
+237,2023-06-14,Germany,,23,M,Email Campaign,Tablet,Premium
+238,2023-03-28,Germany,,29,male,Organic Search,Mobile,Free
+239,2023-09-17,Germany,,14,female,Email Campaign,Desktop,Free
+240,11/03/2024,Australia,,22,female,Referral,Desktop,Free
+241,2024-01-28,UAE,,42,female,Direct,Mobile,Free
+242,2023-10-10,Canada,,28,Female,Paid Ads,Desktop,Premium
+243,2024-12-31,UK,,35,Other,Referral,Tablet,Free
+244,2024-05-15,Canada,,37,MALE,Paid Ads,Mobile,Free
+245,2023-02-21,UAE,,34,Other,Paid Ads,Desktop,Premium
+246,2023-08-15,India,Bangalore,21,,Referral,Desktop,Free
+247,2024-04-11,Australia,,29,other,Paid Ads,Tablet,Free
+248,07/06/2023,Canada,,21,other,Organic Search,Mobile,Free
+249,2023-07-22,UK,,29,Other,Social Media,Mobile,Free
+250,2023-09-15,Australia,,49,female,Email Campaign,Desktop,Premium
+251,2023-08-10,Germany,,40,MALE,Organic Search,Desktop,Free
+252,2023-01-05,Australia,,25,F,Paid Ads,Tablet,Free
+253,2023-10-30,India,Mumbai,42,F,Email Campaign,Desktop,Free
+254,2023-10-31,India,Chennai,33,F,Email Campaign,Tablet,Premium
+255,2024-08-04,Australia,,28,,Direct,Tablet,Free
+256,2023-03-27,UK,,31,F,Social Media,Tablet,Free
+257,2023-07-02,India,Indore,35,Female,,Desktop,Free
+258,2024-12-31,Germany,,16,Other,Direct,Mobile,Free
+259,2023-02-19,India, pune ,26,F,,Tablet,Free
+260,2024-03-05,Germany,,25,other,Direct,Tablet,Free
+261,2023-10-26,India,Kolkata,38,other,Referral,Mobile,Free
+262,2023-06-05,Australia,,34,F,Direct,Tablet,Free
+263,2023-01-24,Germany,,26,other,Paid Ads,Desktop,Free
+264,2023-03-02,USA,,25,female,Direct,Tablet,Free
+265,2023-03-10,Australia,,25,female,Email Campaign,Tablet,Free
+266,2023-05-04,UAE,,36,F,Paid Ads,Desktop,Free
+267,2023-03-27,India,Chennai,16,female,Paid Ads,Mobile,Premium
+268,2024-03-28,Australia,,40,female,Email Campaign,Tablet,Free
+269,2023-03-18,Australia,,32,Female,Organic Search,Mobile,Free
+270,2023-02-10,India, bangalore ,39,,,Desktop,Free
+271,2023-06-27,Canada,,16,other,Referral,Desktop,Free
+272,31/12/2024,India,Indore,6,male,Paid Ads,Desktop,Premium
+273,2023-10-21,India,Ahmedabad,32,M,Referral,Mobile,Free
+274,2023-03-02,India,Chennai,16,,Paid Ads,Tablet,Free
+275,2023-01-12,India,Chennai,37,other,Direct,Mobile,Free
+276,2023-04-18,USA,,23,Female,Direct,Desktop,Premium
+277,2023-03-24,India,Ahmedabad,29,M,Social Media,Desktop,Premium
+278,31/12/2024,UAE,,17,Female,Referral,Desktop,Free
+279,2023-07-23,India,Hyderabad,37,Female,Organic Search,Desktop,Free
+280,2023-09-12,Australia,,30,female,Direct,Desktop,Free
+281,2023-03-09,India,Jaipur,20,F,Email Campaign,Desktop,Premium
+282,2023-06-18,India,Pune,20,MALE,Email Campaign,Tablet,Free
+283,2023-07-04,India,Mumbai,24,,Email Campaign,Mobile,Free
+284,2023-07-29,Canada,,38,MALE,Direct,Tablet,Free
+285,2023-11-22,Canada,,37,male,Email Campaign,Desktop,Free
+286,21/10/2023,Canada,,25,female,Social Media,Desktop,Premium
+287,2023-04-26,Germany,,30,MALE,Referral,Tablet,Free
+288,2023-09-11,India, jaipur ,43,Other,Paid Ads,Tablet,Premium
+289,2023-08-06,UAE,,41,F,Social Media,Desktop,Premium
+290,2023-02-06,UAE,,28,MALE,Direct,Tablet,Free
+291,2023-05-16,India,Bangalore,29,Other,Direct,Mobile,Premium
+292,2023-04-16,USA,,27,other,Email Campaign,Desktop,Free
+293,2024-12-31,India,Jaipur,40,female,Direct,Mobile,Free
+294,2024-12-31,Germany,,30,male,Organic Search,Mobile,Free
+295,2024-08-30,India,Pune,26,Other,Email Campaign,Mobile,Premium
+296,2023-09-24,India,Kolkata,37,Female,Direct,Tablet,Free
+297,2023-04-08,UK,,29,Female,Paid Ads,Tablet,Free
+298,2023-10-27,USA,,17,male,,Tablet,Premium
+299,2023-05-18,UAE,,36,,Referral,Tablet,Free
+300,2023-09-27,UK,,30,Other,Referral,Desktop,Free
+301,2024-02-28,India,Pune,38,M,,Tablet,Free
+302,2024-12-31,Australia,,32,M,Referral,Mobile,Free
+303,31/12/2024,Canada,,26,F,Direct,Mobile,Free
+304,2023-05-10,Germany,,20,male,Paid Ads,Tablet,Premium
+305,2023-01-31,Canada,,39,Female,Referral,Desktop,Premium
+306,17/09/2024,India,Delhi,35,other,Direct,Tablet,Free
+307,2023-02-13,India,Kolkata,31,female,Email Campaign,Tablet,Free
+308,2024-02-08,Australia,,35,other,Direct,Desktop,Premium
+309,2024-12-31,India,Chennai,17,male,Paid Ads,Tablet,Free
+310,2024-08-01,Germany,,38,Other,Paid Ads,Desktop,Free
+311,2023-05-30,India,Jaipur,38,F,Social Media,Tablet,Free
+312,2023-05-30,India,Chennai,23,,Email Campaign,Tablet,Premium
+313,2024-10-16,India,Mumbai,26,Other,Direct,Mobile,Free
+314,2023-10-04,India,Kolkata,31,male,Direct,Tablet,Premium
+315,2024-12-31,India,Mumbai,121,Other,Direct,Desktop,Free
+316,2023-08-09,Australia,,28,Other,Paid Ads,Mobile,Premium
+317,2023-08-27,India,Pune,35,female,Referral,Desktop,Free
+318,2023-06-20,Canada,,37,Female,Paid Ads,Desktop,Free
+319,2023-03-23,India,Delhi,20,Other,Organic Search,Tablet,Free
+320,2023-02-17,Canada,,43,Other,Referral,Tablet,Premium
+321,2024-12-31,Australia,,37,male,Direct,Tablet,Free
+322,27/07/2024,India,Hyderabad,38,male,,Mobile,Premium
+323,2023-09-08,UAE,,28,MALE,Email Campaign,Mobile,Free
+324,2023-01-24,Australia,,39,F,Direct,Mobile,Premium
+325,2023-06-22,India,Kolkata,43,F,Social Media,Mobile,Premium
+326,2023-02-07,Germany,,28,Other,Referral,Mobile,Free
+327,2023-02-20,Canada,,21,other,Email Campaign,Desktop,Free
+328,2024-03-13,UAE,,21,MALE,Referral,Mobile,Free
+329,2023-04-06,India,Ahmedabad,28,M,Referral,Desktop,Free
+330,10/10/2023,USA,,47,other,Referral,Mobile,Free
+331,2024-08-27,Canada,,40,,Social Media,Mobile,Free
+332,2023-07-01,India,Indore,25,F,Organic Search,Desktop,Free
+333,2023-05-25,Australia,,30,Female,Paid Ads,Tablet,Free
+334,2023-01-24,USA,,27,female,Organic Search,Mobile,Free
+335,2024-08-25,Canada,,35,MALE,Paid Ads,Tablet,Free
+336,2024-02-29,India,Jaipur,-5,female,Referral,Tablet,Free
+337,2023-11-09,Canada,,27,F,Direct,Tablet,Free
+338,2024-12-31,India,Jaipur,33,Other,Referral,Tablet,Free
+339,2023-02-18,Germany,,14,Female,Referral,Desktop,Free
+340,2023-09-15,India,Indore,28,M,Email Campaign,Mobile,Premium
+341,2023-02-28,India,Jaipur,30,MALE,Social Media,Tablet,Free
+342,2024-12-31,India,Hyderabad,30,Other,Organic Search,Desktop,Premium
+343,2023-02-25,UAE,,25,,Direct,Desktop,Free
+344,2023-05-21,UK,,47,,Organic Search,Mobile,Premium
+345,2023-05-24,UK,,42,M,Organic Search,Tablet,Premium
+346,2023-10-30,UAE,,23,F,Social Media,Mobile,Free
+347,2023-07-24,Australia,,36,,Direct,Tablet,Free
+348,2024-12-31,Canada,,24,,Organic Search,Desktop,Free
+349,2024-06-01,India,Delhi,30,M,Referral,Desktop,Premium
+350,2023-01-31,UK,,44,other,Direct,Tablet,Free
+351,31/12/2024,India, delhi ,34,F,Direct,Mobile,Premium
+352,2024-04-17,Australia,,39,M,Referral,Tablet,Free
+353,2024-03-03,UAE,,29,M,,Desktop,Free
+354,2024-12-31,India,Jaipur,0,Other,Paid Ads,Desktop,Premium
+355,2023-12-12,India,Indore,26,,Referral,Mobile,Free
+356,2024-01-03,Canada,,29,,Referral,Tablet,Free
+357,2023-01-15,India,Chennai,18,other,Direct,Tablet,Premium
+358,2023-05-05,Germany,,49,MALE,Referral,Mobile,Free
+359,2023-02-12,UK,,22,M,Social Media,Tablet,Free
+360,2023-02-10,India,Jaipur,33,M,Social Media,Desktop,Free
+361,2023-07-01,Canada,,34,male,Organic Search,Desktop,Free
+362,2023-01-19,Australia,,35,,Social Media,Tablet,Free
+363,2023-07-21,Canada,,46,other,Email Campaign,Mobile,Premium
+364,2023-12-15,India,Hyderabad,31,female,Social Media,Tablet,Premium
+365,2023-05-31,Australia,,22,,Organic Search,Desktop,Premium
+366,2024-12-18,UK,,50,,Organic Search,Tablet,Free
+367,2023-09-08,UAE,,12,MALE,Direct,Mobile,Free
+368,2023-10-09,Canada,,18,female,Organic Search,Desktop,Premium
+369,2024-06-24,India,Pune,45,F,Email Campaign,Tablet,Free
+370,2024-03-20,India,Pune,32,F,Email Campaign,Tablet,Free
+371,2023-09-01,USA,,37,female,Email Campaign,Tablet,Premium
+372,2023-06-29,UAE,,27,male,Direct,Mobile,Free
+373,2023-07-25,India,Chennai,25,Other,Email Campaign,Tablet,Free
+374,2024-12-31,Canada,,19,MALE,Organic Search,Desktop,Free
+375,2023-01-25,UK,,49,other,Referral,Tablet,Free
+376,2023-04-16,India,Jaipur,23,F,Email Campaign,Desktop,Free
+377,2023-06-18,India,Jaipur,26,female,Email Campaign,Mobile,Free
+378,2023-09-03,UK,,23,male,,Desktop,Free
+379,2024-03-13,India,Jaipur,28,Other,Direct,Mobile,Premium
+380,2023-04-27,USA,,27,MALE,Referral,Mobile,Free
+381,2024-09-27,India,Mumbai,34,female,Paid Ads,Desktop,Free
+382,2023-04-18,India,Pune,41,M,Email Campaign,Tablet,Free
+383,31/12/2024,UK,,21,MALE,Social Media,Tablet,Free
+384,31/12/2024,UAE,,26,MALE,Organic Search,Mobile,Free
+385,2024-06-14,India,Ahmedabad,33,M,Direct,Mobile,Free
+386,2024-12-31,Germany,,16,M,Direct,Mobile,Free
+387,2024-12-16,UAE,,35,other,Organic Search,Mobile,Free
+388,2024-12-31,UAE,,30,F,Referral,Mobile,Free
+389,2024-03-27,India,Kolkata,27,female,Direct,Mobile,Premium
+390,2024-08-26,USA,,23,Female,Email Campaign,Mobile,Premium
+391,2023-03-28,India,Pune,27,MALE,Direct,Tablet,Free
+392,2023-01-13,India,Chennai,24,M,Email Campaign,Desktop,Free
+393,2024-12-31,Canada,,0,MALE,Organic Search,Desktop,Free
+394,2023-11-26,UAE,,33,,Direct,Tablet,Premium
+395,2023-03-22,UAE,,49,MALE,Email Campaign,Tablet,Free
+396,2023-09-05,India,Kolkata,32,M,Social Media,Tablet,Free
+397,2023-04-11,India,Hyderabad,14,Female,Organic Search,Desktop,Free
+398,2024-12-31,India,Hyderabad,54,M,Direct,Mobile,Free
+399,2024-12-31,UK,,46,,Direct,Desktop,Free
+400,2024-04-02,USA,,23,MALE,Organic Search,Desktop,Premium
+401,2023-01-12,India,Hyderabad,11,MALE,Email Campaign,Desktop,Free
+402,2023-04-16,India,Chennai,21,MALE,Direct,Tablet,Free
+403,2023-08-03,India,Mumbai,28,male,Social Media,Desktop,Free
+404,2024-12-31,India,Kolkata,27,Other,Paid Ads,Desktop,Premium
+405,2024-03-16,India,Indore,21,,Organic Search,Mobile,Free
+406,2023-01-02,India, ahmedabad ,22,other,Referral,Desktop,Free
+407,2024-01-30,UK,,29,Female,Referral,Tablet,Free
+408,2024-12-31,Germany,,23,other,Paid Ads,Tablet,Premium
+409,2023-02-08,India, bangalore ,36,Other,Email Campaign,Desktop,Free
+410,2023-10-09,India, chennai ,29,Other,Direct,Desktop,Free
+411,2023-12-27,India,Ahmedabad,37,male,Paid Ads,Tablet,Free
+412,15/03/2024,India,Kolkata,30,F,Direct,Mobile,Free
+413,2023-09-02,UAE,,25,MALE,,Desktop,Free
+414,2023-02-26,USA,,33,female,Social Media,Tablet,Premium
+415,2023-02-28,Canada,,19,female,Paid Ads,Mobile,Premium
+416,2024-12-31,India,Delhi,23,other,Organic Search,Tablet,Free
+417,2023-02-07,Canada,,21,female,Organic Search,Mobile,Free
+418,2024-12-09,Germany,,33,male,Referral,Mobile,Free
+419,2024-12-31,UK,,37,Other,Direct,Desktop,Free
+420,2023-01-02,India,Ahmedabad,28,,Paid Ads,Mobile,Free
+421,2024-07-22,India, delhi ,30,Female,Social Media,Desktop,Free
+422,2023-01-01,India,Indore,27,MALE,Organic Search,Mobile,Premium
+423,2023-09-27,India,Delhi,22,F,Social Media,Mobile,Free
+424,2023-03-13,UAE,,35,other,,Desktop,Free
+425,2023-01-30,India,Hyderabad,34,M,Email Campaign,Tablet,Free
+426,2023-02-10,UAE,,13,,Organic Search,Desktop,Free
+427,2023-06-06,Australia,,25,Female,Email Campaign,Mobile,Premium
+428,2023-01-07,UK,,23,other,Social Media,Desktop,Premium
+429,2023-07-07,UAE,,26,female,Referral,Tablet,Free
+430,2023-03-07,USA,,37,male,Social Media,Tablet,Free
+431,2024-04-09,India,Bangalore,24,Female,Direct,Mobile,Premium
+432,2024-05-03,Germany,,32,Other,Paid Ads,Mobile,Free
+433,2024-12-31,UK,,32,male,Referral,Tablet,Free
+434,2024-02-14,India,Jaipur,24,M,Organic Search,Mobile,Free
+435,2023-08-01,Australia,,121,other,Paid Ads,Mobile,Free
+436,2023-12-13,UK,,44,male,Email Campaign,Tablet,Premium
+437,2023-10-27,Australia,,23,F,Referral,Tablet,Premium
+438,2024-07-25,India,Chennai,27,M,Direct,Desktop,Premium
+439,2023-06-04,UK,,24,M,Email Campaign,Tablet,Premium
+440,2023-01-01,UK,,34,Female,Paid Ads,Desktop,Free
+441,2023-02-27,India,Bangalore,34,Other,Email Campaign,Mobile,Free
+442,2023-02-05,Germany,,28,Female,Organic Search,Desktop,Free
+443,2024-09-30,India,Chennai,39,M,Organic Search,Tablet,Free
+444,2023-04-28,UK,,0,other,Paid Ads,Tablet,Free
+445,2024-08-30,India, mumbai ,23,other,Paid Ads,Desktop,Free
+446,2023-02-16,Australia,,34,Other,Social Media,Tablet,Free
+447,2024-11-03,India, jaipur ,32,male,Referral,Desktop,Premium
+448,08/10/2024,India,Ahmedabad,30,MALE,Organic Search,Desktop,Free
+449,2024-12-31,Canada,,26,male,Direct,Mobile,Free
+450,2023-05-05,India,Delhi,41,Female,Email Campaign,Tablet,Premium
+451,2023-05-09,USA,,36,female,Organic Search,Desktop,Free
+452,2023-03-16,India,Mumbai,35,Other,Direct,Tablet,Free
+453,2024-11-03,India,Pune,33,female,Social Media,Mobile,Free
+454,2023-07-31,Canada,,42,female,Email Campaign,Desktop,Free
+455,2023-09-18,UK,,25,M,Referral,Desktop,Free
+456,2023-02-01,USA,,25,male,Direct,Tablet,Free
+457,2023-02-25,Australia,,42,Other,Email Campaign,Mobile,Free
+458,2023-01-06,Australia,,9,Other,Direct,Desktop,Free
+459,2024-06-12,USA,,33,MALE,Direct,Mobile,Free
+460,2024-12-31,Germany,,26,M,Social Media,Mobile,Premium
+461,2023-03-10,India,Pune,42,Other,Direct,Desktop,Free
+462,2023-04-05,India,Indore,41,MALE,Email Campaign,Desktop,Free
+463,2023-09-29,Australia,,24,other,Organic Search,Tablet,Free
+464,2023-12-16,UAE,,25,MALE,Paid Ads,Tablet,Free
+465,2023-05-11,India,Delhi,17,MALE,Email Campaign,Desktop,Premium
+466,2024-12-31,Canada,,44,other,Referral,Desktop,Free
+467,2023-02-23,UAE,,44,male,Referral,Tablet,Free
+468,2023-06-17,USA,,25,F,Referral,Desktop,Free
+469,2024-12-31,India,Pune,36,other,,Desktop,Premium
+470,2024-04-14,India,Pune,39,Other,Email Campaign,Desktop,Premium
+471,2024-12-31,India,Delhi,31,,Email Campaign,Tablet,Free
+472,2024-04-03,India,Mumbai,32,other,Referral,Tablet,Free
+473,2023-02-22,Canada,,30,,Organic Search,Tablet,Free
+474,2023-01-07,Germany,,21,other,Social Media,Tablet,Free
+475,2023-08-07,USA,,24,MALE,Social Media,Mobile,Free
+476,2024-05-11,India,Pune,19,Female,Social Media,Tablet,Free
+477,2024-12-31,India,Jaipur,29,M,Organic Search,Mobile,Free
+478,2024-12-11,USA,,22,female,Social Media,Desktop,Free
+479,2023-01-29,USA,,25,,Social Media,Tablet,Free
+480,2023-05-09,UK,,37,,Email Campaign,Desktop,Free
+481,2024-12-31,India,Chennai,34,F,Referral,Tablet,Free
+482,2024-07-25,USA,,21,Female,Paid Ads,Mobile,Premium
+483,2023-01-14,Germany,,31,Other,Direct,Mobile,Premium
+484,2023-02-14,USA,,30,female,Social Media,Desktop,Premium
+485,2024-12-31,Germany,,42,Female,Direct,Mobile,Free
+486,2023-11-11,Canada,,40,F,Paid Ads,Tablet,Premium
+487,2023-04-28,India,Jaipur,39,female,Email Campaign,Mobile,Premium
+488,2023-11-11,India,Pune,33,female,Referral,Desktop,Free
+489,2023-08-08,India, jaipur ,34,MALE,Paid Ads,Tablet,Free
+490,2023-10-29,Australia,,44,female,Paid Ads,Mobile,Premium
+491,2024-05-23,Germany,,24,other,Direct,Mobile,Premium
+492,2023-03-01,India,Chennai,28,male,Paid Ads,Mobile,Free
+493,2023-07-11,India,Bangalore,34,Other,Social Media,Desktop,Free
+494,2023-12-15,UK,,41,male,Email Campaign,Mobile,Free
+495,05/08/2023,India,Pune,16,F,Organic Search,Desktop,Free
+496,2023-07-30,India,Mumbai,37,female,Email Campaign,Tablet,Free
+497,2024-03-28,India,Chennai,27,other,Paid Ads,Mobile,Premium
+498,2023-01-15,UAE,,37,male,Direct,Mobile,Free
+499,28/02/2023,Australia,,33,M,Direct,Tablet,Premium
+500,2023-08-14,USA,,13,,Email Campaign,Mobile,Free
+305,2023-01-31,Canada,,39,Female,Referral,Desktop,Premium
+341,2023-02-28,India,Jaipur,30,MALE,Social Media,Tablet,Free
+48,2023-08-30,UAE,,33,male,Referral,Desktop,Premium
+68,2023-12-20,India,Delhi,37,F,Social Media,Mobile,Free
+480,2023-05-09,UK,,37,,Email Campaign,Desktop,Free
+486,2023-11-11,Canada,,40,F,Paid Ads,Tablet,Premium
+311,2023-05-30,India,Jaipur,38,F,Social Media,Tablet,Free
+32,2024-01-05,USA,,45,Other,Direct,Tablet,Free

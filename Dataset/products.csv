@@ -1,0 +1,48 @@
+product_id,product_name,category,unit_price,launch_date
+1001,Wireless Earbuds,Electronics,1559.0,2023-05-02
+1002,Smart Watch,Electronics,1165.0,2023-04-10
+1003,Bluetooth Speaker,Electronics,3618.0,2024-05-06
+1004,Power Bank,Electronics,3132.0,2023-11-10
+1005,Laptop Stand,Electronics,4816.0,2023-02-28
+1006,Webcam HD,electronics,3257.0,2024-11-17
+1007,USB-C Hub,Electronics,3704.0,2023-05-11
+1008,Gaming Mouse,Electronics,4255.0,2024-08-23
+1009,Mechanical Keyboard,Electronics,3062.0,2023-12-06
+1010,Tablet Case,Electronics,6934.0,2023-07-25
+1011,Denim Jacket,Fashion,2254.0,2024-07-19
+1012,Running Shoes,Fashion,1799.0,2023-06-11
+1013,Cotton T-Shirt,Fashion,,2024-03-31
+1014,Leather Wallet,Fashion,1574.0,2023-12-04
+1015,Sunglasses,Fashion,1375.0,2024-01-15
+1016,Backpack,Fashion,1479.0,2023-12-10
+1017,Wool Scarf,Fashion,2326.0,2024-05-13
+1018,Sneakers,Fashion,1997.0,2023-08-19
+1019,Formal Shirt,Fashion,2481.0,2023-02-17
+1020,Hoodie,Fashion,2753.0,2024-11-14
+1021,Air Fryer  ,Home & Kitchen,5455.0,2024-10-04
+1022,Coffee Maker,Home & Kitchen,901.0,2023-07-26
+1023,Non-stick Pan,Home & Kitchen,1883.0,2023-08-29
+1024,Blender,Home & Kitchen,4590.0,2023-08-19
+1025,Table Lamp,Home & Kitchen,1458.0,2023-08-31
+1026,Storage Organizer,Home & Kitchen,3024.0,2024-10-07
+1027,Cushion Cover,Home & Kitchen,4026.0,2024-10-01
+1028,Cutlery Set,Home & Kitchen,5991.0,2024-01-20
+1029,Water Bottle,Home & Kitchen,4428.0,2023-09-16
+1030,Yoga Mat,Home & Kitchen,5929.0,2023-08-13
+1031,Face Serum,Beauty,1546.0,2023-08-21
+1032,Sunscreen SPF50,Beauty,1669.0,2023-09-25
+1033,Lip Balm Set,Beauty,1100.0,2023-04-23
+1034,Hair Dryer,Beauty,1908.0,2024-02-07
+1035,Face Wash,Beauty,1856.0,2024-02-20
+1036,Body Lotion,Beauty,271.0,2023-10-07
+1037,Perfume,Beauty,1683.0,2024-08-31
+1038,Nail Kit,Beauty,1498.0,2024-10-21
+1039,Resistance Bands,Sports,445.0,2024-05-03
+1040,Dumbbell Set,Sports,939.0,2023-05-31
+1041,Skipping Rope,Sports,2490.0,2024-09-15
+1042,Cricket Bat,Sports,1626.0,2024-10-13
+1043,Football,Sports,2355.0,2023-04-09
+1044,Badminton Racket,Sports,2498.0,2023-04-30
+1045,Fiction Bestseller,Books,570.0,2023-04-14
+1046,Self-Help Guide,Books,247.0,2023-06-02
+1047,Cookbook,Books,311.0,2024-11-11
