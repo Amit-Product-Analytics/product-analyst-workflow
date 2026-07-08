@@ -134,4 +134,19 @@ product-analyst-workflow
 │
 └── README.md
 ```
+---
 
+# 📈 Product Analytics Techniques Used
+
+This project demonstrates the core analytical techniques commonly used by Product Analysts to evaluate user behavior, product performance, and business growth.
+
+| Technique | Purpose |
+|-----------|---------|
+| Data Cleaning | Prepared and standardized raw data using SQL |
+| KPI Analysis | Calculated key business metrics such as Revenue, AOV, Active Users, and Conversion Rate |
+| Funnel Analysis | Identified user drop-off points throughout the purchase journey |
+| Cohort Analysis | Measured customer retention across different acquisition periods |
+| RFM Segmentation | Grouped customers based on Recency, Frequency, and Monetary value |
+| Churn Analysis | Evaluated customer churn and retention trends |
+| Revenue Analysis | Analyzed revenue performance across products and categories |
+| Dashboard Development | Built interactive Power BI dashboards for business reporting |
