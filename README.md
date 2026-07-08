@@ -96,3 +96,42 @@ product-analyst-workflow
 - ✅ Interactive Power BI Dashboards
 - ✅ Business Insights and Recommendations
 
+---
+
+# 📁 Repository Structure
+
+```text
+product-analyst-workflow
+│
+├── Dataset
+│   ├── event.csv
+│   ├── order.csv
+│   ├── product.csv
+│   ├── user.csv
+│   └── subscriptions.csv
+│
+├── SQL
+│   ├── Data Cleaning Scripts
+│   ├── KPI Analysis
+│   ├── Funnel Analysis
+│   ├── Cohort Analysis
+│   ├── Churn Analysis
+│   └── RFM Analysis
+│
+├── SQL Query Results
+│   └── SQL analysis screenshots
+│
+├── Dashboard
+│   ├── Power BI (.pbix)
+│   └── Dashboard (.pdf)
+│
+├── Dashboard Images
+│   ├── Executive Overview
+│   ├── Product Analytics
+│   └── Customer Analytics
+│
+├── Documentation
+│
+└── README.md
+```
+
