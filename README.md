@@ -181,6 +181,23 @@ Through this project, I demonstrated the following technical and analytical skil
 - KPI Reporting
 - Business Visualization
 
+---
+
+# 📌 Project Outcomes
+
+This project was developed to simulate the day-to-day workflow of a Product Analyst in a real business environment.
+
+By completing this project, I demonstrated the ability to:
+
+- Transform raw data into meaningful business insights using SQL.
+- Analyze customer behavior through Funnel, Cohort, RFM, and Churn Analysis.
+- Calculate and monitor key product and business KPIs.
+- Build interactive Power BI dashboards for data visualization.
+- Communicate analytical findings to support data-driven decision-making.
+- Follow an end-to-end analytics workflow from raw data to business recommendations.
+
+This project reflects my practical understanding of Product Analytics and my ability to solve business problems using data.
+
 ### Business Skills
 - Analytical Thinking
 - Business Problem Solving
