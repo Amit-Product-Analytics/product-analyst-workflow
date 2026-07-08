@@ -81,3 +81,18 @@ product-analyst-workflow
 ## Customer Analytics Dashboard
 
 ![Customer Analytics Dashboard](Dashboard%20Images/03-Customer%20Analytics%20Dashboard.png)
+
+---
+
+# 🚀 Key Features
+
+- ✅ Data Cleaning and Transformation using SQL
+- ✅ KPI Calculation (Revenue, AOV, Active Users, Conversion Rate)
+- ✅ Funnel Analysis
+- ✅ Cohort Retention Analysis
+- ✅ RFM Customer Segmentation
+- ✅ Churn & Retention Analysis
+- ✅ Revenue Trend Analysis
+- ✅ Interactive Power BI Dashboards
+- ✅ Business Insights and Recommendations
+
