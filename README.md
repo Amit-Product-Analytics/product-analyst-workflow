@@ -62,14 +62,22 @@ product-analyst-workflow
 ├── Documentation
 └── README.md
 ```
-## Executive Overview
+---
 
-![Executive Overview](Dashboard%20Images/Executive%20Overview.png)
+# 📊 Dashboard Preview
 
-## Product Analytics
+## Executive Overview Dashboard
 
-![Product Analytics](Dashboard%20Images/Product%20Analytics.png)
+![Executive Overview Dashboard](Dashboard%20Images/01-Executive%20Overview%20Dashboard.png)
 
-## Customer Analytics
+---
 
-![Customer Analytics](Dashboard%20Images/Customer%20Analytics.png)
+## Product Analytics Dashboard
+
+![Product Analytics Dashboard](Dashboard%20Images/02-Product%20Analytics%20Dashboard.png)
+
+---
+
+## Customer Analytics Dashboard
+
+![Customer Analytics Dashboard](Dashboard%20Images/03-Customer%20Analytics%20Dashboard.png)
