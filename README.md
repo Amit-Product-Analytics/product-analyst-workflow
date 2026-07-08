@@ -204,3 +204,15 @@ This project reflects my practical understanding of Product Analytics and my abi
 - Data-Driven Decision Making
 - Business Storytelling
 - Performance Monitoring
+
+---
+
+# 🌟 Project Highlights
+
+- Built an end-to-end Product Analytics project using SQL and Power BI.
+- Replicated the workflow of a Product Analyst in a real business environment.
+- Performed SQL-based data cleaning and transformation.
+- Conducted Funnel Analysis, Cohort Analysis, RFM Segmentation, and Churn Analysis.
+- Built interactive Power BI dashboards to visualize business performance.
+- Generated actionable insights to support data-driven decision-making.
+- Organized the project using a professional GitHub repository structure.
